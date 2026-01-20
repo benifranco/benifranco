@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2200&pause=120&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Franco+L%C3%B3pez;PhD+Student+in+Quantitative+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2200&pause=120&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Vicente+Franco+L%C3%B3pez;PhD+Student+in+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
 </a>
 </p>
 
@@ -30,7 +30,7 @@ My research combines:
 - Pension systems & longevity risk  
 - Machine learning for financial decision-making  
 
-I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
+I am also **co-founder of Zero2Hero**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
 
 ---
 
@@ -145,10 +145,9 @@ Construction of reduced portfolios using:
 ---
 
 ### 🎓 Zero2Hero – Education & Applied ML
-Visit [zero2hero.lat](https://www.zero2hero.lat) to explore the platform and current programs.
 
 <details>
-<summary><strong><a href="https://www.zero2hero.lat">Zero2Hero – Applied Learning Platform</a></strong></summary>
+<summary><strong>Zero2Hero – Applied Learning Platform</strong></summary>
 
 Design of:
 - Python Developer Track  
