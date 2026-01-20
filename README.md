@@ -43,9 +43,12 @@ I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an education
 - **PhD in Quantitative Finance (ongoing)**  
   *Université Libre de Bruxelles (ULB)*  
   Research area: **Optimal Decumulation of Pensions, Habits, Loss Aversion & Public Policy**  
+  Advisor: [Jennifer Alonso Garcia](https://jennifer.alonso.garcia.web.ulb.be)
 
-- **Master’s in Probability and Statistics**  
+- **MSc in Probability and Statistics**  
   *Center for Research in Mathematics (CIMAT)*  
+  Thesis: *Portfolio Optimization through Spectral Community Detection in S&P 500 Financial Networks*  
+  Advisor: [Emilien Antoine Marie Joly](https://joly415.perso.math.cnrs.fr/RechercheEG.htm)  
 
 - **Bachelor’s in Data Science**  
   *UNAM – IIMAS*  
