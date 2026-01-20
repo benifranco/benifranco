@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=22&duration=2200&pause=100&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Vicente+Franco+L%C3%B3pez;PhD+Student+in+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=2200&pause=100&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Vicente+Franco+L%C3%B3pez;PhD+Student+in+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
 </a>
 </p>
 
