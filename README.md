@@ -147,17 +147,28 @@ Construction of reduced portfolios using:
 
 ---
 
-### �YZ" [Zero2Hero](https://www.zero2hero.lat) �?" Education & Applied ML
+### 🚀 [Zero2Hero](https://www.zero2hero.lat) — EdTech & Applied AI Startup
 
 <details>
-<summary><strong><a href="https://www.zero2hero.lat">Zero2Hero �?" Applied Learning Platform</a></strong></summary>
+<summary><strong><a href="https://www.zero2hero.lat">Zero2Hero — Learning Platform & MVP Development Studio</a></strong></summary>
 
-Design of:
-- Python Developer Track  
-- Machine Learning Semillero  
-- Big Tech Interview Preparation  
+Building technology-driven learning programs and small-scale applied products with developer teams.
 
-Monthly applied projects and mentoring.
+Core activities:
+- Courses & Live Training  
+- Applied AI Integrations  
+- Semilleros (Long-term Technical Programs)  
+
+Main technologies:
+- FastAPI  
+- Firebase  
+- Flutter  
+- Heroku  
+
+We combine structured teaching with hands-on development of MVPs and applied applications.  
+Small engineering teams, mentoring, real-world projects and applied AI.
+
+Bridging education, software engineering and early-stage product development.
 
 </details>
 
