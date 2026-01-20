@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=15&duration=2200&pause=100&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Vicente+Franco+L%C3%B3pez;PhD+Student+in+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
+<a href="https://www.zero2hero.lat">
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=2200&pause=100&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Vicente+Franco+L%C3%B3pez;PhD+Student+in+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
 </a>
 </p>
 
@@ -13,6 +13,9 @@
 </a>
 <a href="https://github.com/benifranco">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.zero2hero.lat">
+<img src="https://img.shields.io/badge/Zero2Hero-0F4C81?style=for-the-badge" />
 </a>
 </p>
 
@@ -30,7 +33,7 @@ My research combines:
 - Pension systems & longevity risk  
 - Machine learning for financial decision-making  
 
-I am also **co-founder of Zero2Hero**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
+I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
 
 ---
 
@@ -60,14 +63,14 @@ I am also **co-founder of Zero2Hero**, an educational initiative focused on trai
 - **PhD Researcher – Université Libre de Bruxelles**  
   Research on optimal pension decumulation, intergenerational risk sharing, and stochastic control models.
 
-- **Co-founder – Zero2Hero (2023–Present)**  
+- **Co-founder – [Zero2Hero](https://www.zero2hero.lat) (2023–Present)**  
   Design of technical learning paths, mentoring, curriculum development, and applied ML & programming training.
 
-- **Mathematical Olympiad Trainer (2022–Present)**  
+- **Mathematical Olympiad Trainer (2022–2024)**  
   Training students for IMO and Iberoamerican competitions in advanced mathematics.
 
-- **Teaching Assistant – UNAM (2022–2023)**  
-  Courses: Calculus, Algebra.
+- **Teaching Assistant – UNAM (2022–2023)** ([UNAM profile](https://www.fciencias.unam.mx/directorio/94962))  
+  Courses: Calculus I, II.
 
 </details>
 
@@ -144,10 +147,10 @@ Construction of reduced portfolios using:
 
 ---
 
-### 🎓 Zero2Hero – Education & Applied ML
+### �YZ" [Zero2Hero](https://www.zero2hero.lat) �?" Education & Applied ML
 
 <details>
-<summary><strong>Zero2Hero – Applied Learning Platform</strong></summary>
+<summary><strong><a href="https://www.zero2hero.lat">Zero2Hero �?" Applied Learning Platform</a></strong></summary>
 
 Design of:
 - Python Developer Track  
@@ -176,3 +179,6 @@ Open to:
 <img src="https://img.shields.io/badge/LinkedIn-Benito%20Franco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
+
+
+
