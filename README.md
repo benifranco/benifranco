@@ -23,7 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **PhD student in Quantitative Finance at Université Libre de Bruxelles (ULB)**, specializing in **optimal decumulation of pensions, risk-sharing mechanisms, and stochastic optimization**.
+Hi, I am from Mexico and I am a **PhD student in Quantitative Finance at Université Libre de Bruxelles (ULB)**, specializing in **optimal decumulation of pensions, risk-sharing mechanisms, and stochastic optimization**.
 
 I hold a **Master’s degree in Probability and Statistics from CIMAT**, and double bachelor’s degrees in **Mathematics and Data Science (UNAM)**.
 
