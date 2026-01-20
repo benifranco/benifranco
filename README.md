@@ -30,7 +30,7 @@ My research combines:
 - Pension systems & longevity risk  
 - Machine learning for financial decision-making  
 
-I am also **co-founder of Zero2Hero**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
+I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
 
 ---
 
@@ -145,9 +145,10 @@ Construction of reduced portfolios using:
 ---
 
 ### 🎓 Zero2Hero – Education & Applied ML
+Visit [zero2hero.lat](https://www.zero2hero.lat) to explore the platform and current programs.
 
 <details>
-<summary><strong>Zero2Hero – Applied Learning Platform</strong></summary>
+<summary><strong><a href="https://www.zero2hero.lat">Zero2Hero – Applied Learning Platform</a></strong></summary>
 
 Design of:
 - Python Developer Track  
