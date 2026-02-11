@@ -55,6 +55,8 @@ I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an education
 
 - **Bachelor’s in Mathematics**  
   *UNAM – Faculty of Sciences*  
+  Thesis: *Calculus I Multimedia Learning Suite* ([MathLegh](https://www.mathlegh.com))  
+  Advisor: Luis Eduardo García Hernández  
 
 </details>
 
