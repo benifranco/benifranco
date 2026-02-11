@@ -52,6 +52,7 @@ I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an education
 
 - **Bachelor’s in Data Science**  
   *UNAM – IIMAS*  
+  Graduated through UNAM Extension Studies, completing an intensive six-month Finance Diploma  
 
 - **Bachelor’s in Mathematics**  
   *UNAM – Faculty of Sciences*  
