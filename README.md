@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://www.zero2hero.lat">
+<a href="https://www.zero2hero.com.mx">
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=17&duration=2200&pause=100&color=4D92BB&center=true&vCenter=true&multiline=true&width=650&height=110&lines=Benito+Vicente+Franco+L%C3%B3pez;PhD+Student+in+Finance;Optimal+Decumulation+%7C+Pensions+%7C+Risk+Sharing;Data+Scientist+%7C+Mathematician+%7C+Co-founder+Zero2Hero" alt="Typing SVG" />
 </a>
 </p>
@@ -33,7 +33,7 @@ My research combines:
 - Pension systems & longevity risk  
 - Machine learning for financial decision-making  
 
-I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
+I am also **co-founder of [Zero2Hero](https://www.zero2hero.com.mx)**, an educational initiative focused on training developers and data scientists through applied, project-based learning.
 
 ---
 
@@ -153,10 +153,10 @@ Construction of reduced portfolios using:
 
 ---
 
-### 🚀 [Zero2Hero](https://www.zero2hero.lat) — EdTech & Applied AI Startup
+### 🚀 [Zero2Hero](https://www.zero2hero.com.mx) — EdTech & Applied AI Startup
 
 <details>
-<summary><strong><a href="https://www.zero2hero.lat">Zero2Hero — Learning Platform & MVP Development Studio</a></strong></summary>
+<summary><strong><a href="https://www.zero2hero.com.mx">Zero2Hero — Learning Platform & MVP Development Studio</a></strong></summary>
 
 Building technology-driven learning programs and small-scale applied products with developer teams.
 
