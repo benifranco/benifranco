@@ -14,7 +14,7 @@
 <a href="https://github.com/benifranco">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.zero2hero.lat">
+<a href="https://www.zero2hero.com.mx">
 <img src="https://img.shields.io/badge/Zero2Hero-0F4C81?style=for-the-badge" />
 </a>
 </p>
@@ -69,7 +69,7 @@ I am also **co-founder of [Zero2Hero](https://www.zero2hero.lat)**, an education
 - **PhD Researcher – Université Libre de Bruxelles**  
   Research on optimal pension decumulation, intergenerational risk sharing, and stochastic control models.
 
-- **Co-founder – [Zero2Hero](https://www.zero2hero.lat) (2023–Present)**  
+- **Co-founder – [Zero2Hero](https://www.zero2hero.com.mx) (2023–Present)**  
   Design of technical learning paths, mentoring, curriculum development, and applied ML & programming training.
 
 - **Mathematical Olympiad Trainer (2022–2024)**  
